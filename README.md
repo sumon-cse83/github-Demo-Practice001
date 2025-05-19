@@ -105,7 +105,7 @@ http://www.studywithanis.com
 
 <!-- ![profile picture](./images/Jahangir.jpg) -->
 
-<img src = "./images/jahangir.jpg" width = "200" title = "profile image"/>
+<img src = "./images/Jahangir.jpg" width = "200" title = "profile image"/>
 
 <br/>
 
