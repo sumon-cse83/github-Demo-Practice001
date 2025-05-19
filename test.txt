@@ -1,0 +1,14 @@
+plain text
+italic text
+bold text
+break
+heading
+strikethrough
+order list
+unorder list
+task list
+single line quote
+multiple line quote
+link
+image
+table
