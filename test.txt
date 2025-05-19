@@ -1,14 +1,2 @@
-plain text
-italic text
-bold text
-break
-heading
-strikethrough
-order list
-unorder list
-task list
-single line quote
-multiple line quote
-link
-image
-table
+I have completed my SSC 2002
+I nhave completed my diploma 2007
