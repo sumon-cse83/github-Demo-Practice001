@@ -115,4 +115,3 @@ http://www.studywithanis.com
 | ------------- | --------------------------- |
 | Jahangir Alam | sumoncse83@gmail.com        |
 | Arif          | arifur.rahman@icl.bdrmg.com |
-| Jahangir Alam | sumoncse83@gmail.com        |
